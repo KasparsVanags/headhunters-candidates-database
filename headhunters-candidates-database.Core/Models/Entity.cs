@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace headhunters_candidates_database.Core.Models;
 
 public class Entity
